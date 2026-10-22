@@ -13,3 +13,8 @@ Here is some more text for my second commit.
 # My third commit
 
 Here is some final text for my third commit.
+
+# My fourth commit
+
+Here is some additional text for my fourth commit.And here is another
+line.
